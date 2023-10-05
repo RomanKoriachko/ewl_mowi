@@ -312,7 +312,7 @@ body.lock {
   font-weight: 800;
 }
 .about-section .about-img {
-  background-image: url(images/about-img.jpg);
+  background-image: url(images/about-img-2.jpg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: cover;
@@ -1298,7 +1298,7 @@ body.lock {
   }
   .about-section .about-img {
     background-image: none;
-    background-color: #efefef;
+    background-color: #ffffff;
   }
   .about-section .about-img .about-img-subtitle {
     font-size: 16px;
